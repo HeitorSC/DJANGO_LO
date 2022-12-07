@@ -1,0 +1,9 @@
+venv/
+projeto1/*
+projeto1/venv
+projeto1/venv/*
+projeto1\venv\include\
+projeto1\venv\
+__pycache__/
+$ git status
+pyvenv.cfg
