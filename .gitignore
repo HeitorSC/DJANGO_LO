@@ -3,6 +3,7 @@ projeto1/*
 projeto1/venv
 projeto1/venv/*
 projeto1\venv\include\
-projeto1\venv\
+projeto1\venv\*
+projeto1\*
 __pycache__/
 $ git status
